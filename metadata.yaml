@@ -1,0 +1,43 @@
+_repo: The-Eel_31981
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Dillon, Leo
+    birthdate: &id001 1933
+    deathdate: 2012
+    gutenberg_agent_id: '32728'
+    url: http://www.gutenberg.org/2009/agents/32728
+  - agent_name: Dillon, Diane
+    alias: Dillon, Diane Claire Sorber
+    birthdate: *id001
+    gutenberg_agent_id: '32729'
+    url: http://www.gutenberg.org/2009/agents/32729
+covers:
+- cover_type: archival
+  image_path: 31981-h/images/cover.jpg
+creator:
+  author:
+    agent_name: DeFord, Miriam Allen
+    alias: Ford, Miriam Allen de
+    birthdate: 1888
+    deathdate: 1975
+    gutenberg_agent_id: '35591'
+    url: http://www.gutenberg.org/2009/agents/35591
+    wikipedia: http://en.wikipedia.org/wiki/Miriam_Allen_deFord
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31981'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Criminals -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: The Eel
+url: http://www.gutenberg.org/ebooks/31981
